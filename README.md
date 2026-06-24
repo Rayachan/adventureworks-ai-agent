@@ -83,4 +83,4 @@ SharePoint / Blob Storage Report Output
   Function handling Dataverse auth independently via service principal
 
 ## Details
-See AdventureWorks Documentation in the Documents Folder for full details
+See AdventureWorks Documentation in the Documents Folder for full details and the Example Reports folder for sample reports.
