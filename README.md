@@ -5,7 +5,7 @@ capable of querying the AdventureWorks Data Warehouse via natural language
 and generating downloadable financial reports. Developed to be used within an ERP Management System by ERP managers.
 
 ## Demo
-📹 [Watch the live demo](YOUR_VIDEO_LINK)
+Watch the demo: https://youtu.be/aeBjRsxCiGA 
 
 ## What It Does
 - Accepts natural language financial queries from business users
