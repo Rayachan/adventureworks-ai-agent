@@ -1,0 +1,61 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>January 1, 2012 – December 31, 2012</title><style>
+body { font-family: Segoe UI; margin:40px;}
+h1 { color:#0078d4;}
+table {border-collapse:collapse;width:100%;}
+th, td {border:1px solid #ddd;padding:8px;}
+th {background:#0078d4;color:white;}
+</style></head><body><h1>January 1, 2012 – December 31, 2012</h1><p>Period: Internet Sales Performance Report – Full Year 2012</p><table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse; font-family:Arial, sans-serif;">
+  <thead style="background-color:#0078D4; color:white;">
+    <tr>
+      <th>Metric</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Total Orders</td><td>3,397</td></tr>
+    <tr><td>Total Quantity Sold</td><td>3,397 units</td></tr>
+    <tr><td>Total Sales Amount</td><td>$5,842,485.41</td></tr>
+    <tr><td>Total Product Cost</td><td>$3,414,481.50</td></tr>
+    <tr><td>Gross Profit</td><td>$2,428,003.91</td></tr>
+    <tr><td>Gross Profit Margin</td><td>41.56%</td></tr>
+    <tr><td>Total Tax Amount</td><td>$467,405.19</td></tr>
+    <tr><td>Total Freight Cost</td><td>$146,061.40</td></tr>
+    <tr><td>Average Sale Per Order</td><td>$1,719.86</td></tr>
+  </tbody>
+</table>
+
+<br/>
+
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse; font-family:Arial, sans-serif;">
+  <thead style="background-color:#0078D4; color:white;">
+    <tr>
+      <th>Date Key</th>
+      <th>Total Orders</th>
+      <th>Total Quantity</th>
+      <th>Total Sales Amount</th>
+      <th>Total Product Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>20120101</td><td>9</td><td>9</td><td>$16,331.01</td><td>$9,894.66</td></tr>
+    <tr><td>20120102</td><td>10</td><td>10</td><td>$21,177.25</td><td>$12,668.41</td></tr>
+    <tr><td>20120103</td><td>11</td><td>11</td><td>$22,461.50</td><td>$13,539.29</td></tr>
+    <tr><td>20120104</td><td>9</td><td>9</td><td>$18,077.86</td><td>$10,538.53</td></tr>
+    <tr><td>20120105</td><td>6</td><td>6</td><td>$13,480.48</td><td>$8,105.43</td></tr>
+    <tr><td>20120106</td><td>5</td><td>5</td><td>$11,056.32</td><td>$6,367.06</td></tr>
+    <tr><td>20120107</td><td>7</td><td>7</td><td>$9,894.09</td><td>$6,027.82</td></tr>
+    <tr><td>20120108</td><td>12</td><td>12</td><td>$19,769.29</td><td>$11,679.85</td></tr>
+    <tr><td>20120109</td><td>8</td><td>8</td><td>$17,471.67</td><td>$10,345.86</td></tr>
+    <tr><td>20120110</td><td>12</td><td>12</td><td>$22,918.70</td><td>$13,356.89</td></tr>
+    <tr><td>20120111</td><td>10</td><td>10</td><td>$21,941.80</td><td>$12,958.41</td></tr>
+    <tr><td>20120112</td><td>4</td><td>4</td><td>$7,851.25</td><td>$4,844.97</td></tr>
+    <tr><td>20120113</td><td>6</td><td>6</td><td>$11,709.98</td><td>$6,870.53</td></tr>
+    <tr><td>20120114</td><td>11</td><td>11</td><td>$25,195.97</td><td>$15,315.21</td></tr>
+    <tr><td>20120115</td><td>7</td><td>7</td><td>$10,939.92</td><td>$6,241.28</td></tr>
+    <tr><td>20120116</td><td>8</td><td>8</td><td>$15,176.09</td><td>$9,007.02</td></tr>
+    <tr><td>20120117</td><td>10</td><td>10</td><td>$19,365.24</td><td>$11,641.04</td></tr>
+    <tr><td>20120118</td><td>10</td><td>10</td><td>$20,937.48</td><td>$12,537.42</td></tr>
+    <tr><td>20120119</td><td>7</td><td>7</td><td>$16,056.29</td><td>$9,839.09</td></tr>
+    <tr><td>20120120</td><td>7</td><td>7</td><td>$15,529.58</td><td>$9,211.24</td></tr>
+  </tbody>
+</table><p>Generated: 2026-06-18T05:35:22.5707035Z</p></body></html>

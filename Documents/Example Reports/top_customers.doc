@@ -1,0 +1,31 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>All Time</title><style>
+body { font-family: Segoe UI; margin:40px;}
+h1 { color:#0078d4;}
+table {border-collapse:collapse;width:100%;}
+th, td {border:1px solid #ddd;padding:8px;}
+th {background:#0078d4;color:white;}
+</style></head><body><h1>All Time</h1><p>Period: Top 10 Customers by Total Lifetime Spend</p><table>
+  <thead>
+    <tr>
+      <th>Rank</th>
+      <th>Customer Name</th>
+      <th>Email</th>
+      <th>Gender</th>
+      <th>Yearly Income ($)</th>
+      <th>Total Orders</th>
+      <th>Total Lifetime Spend ($)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Nichole Nara</td><td>nichole16@adventure-works.com</td><td>F</td><td>100,000</td><td>13</td><td>13,295.38</td></tr>
+    <tr><td>2</td><td>Kaitlyn Henderson</td><td>kaitlyn72@adventure-works.com</td><td>F</td><td>110,000</td><td>14</td><td>13,294.27</td></tr>
+    <tr><td>3</td><td>Margaret He</td><td>margaret25@adventure-works.com</td><td>F</td><td>100,000</td><td>14</td><td>13,269.27</td></tr>
+    <tr><td>4</td><td>Randall Dominguez</td><td>randall14@adventure-works.com</td><td>M</td><td>90,000</td><td>11</td><td>13,265.99</td></tr>
+    <tr><td>5</td><td>Adriana Gonzalez</td><td>adriana19@adventure-works.com</td><td>F</td><td>80,000</td><td>10</td><td>13,242.70</td></tr>
+    <tr><td>6</td><td>Rosa Hu</td><td>rosa20@adventure-works.com</td><td>F</td><td>70,000</td><td>15</td><td>13,215.65</td></tr>
+    <tr><td>7</td><td>Brandi Gill</td><td>brandi13@adventure-works.com</td><td>F</td><td>110,000</td><td>12</td><td>13,195.64</td></tr>
+    <tr><td>8</td><td>Brad She</td><td>brad1@adventure-works.com</td><td>M</td><td>90,000</td><td>11</td><td>13,173.19</td></tr>
+    <tr><td>9</td><td>Francisco Sara</td><td>francisco11@adventure-works.com</td><td>M</td><td>70,000</td><td>12</td><td>13,164.64</td></tr>
+    <tr><td>10</td><td>Maurice Shan</td><td>maurice11@adventure-works.com</td><td>M</td><td>80,000</td><td>12</td><td>12,909.67</td></tr>
+  </tbody>
+</table><p>Generated: 2026-06-22T06:04:34.4810294Z</p></body></html>

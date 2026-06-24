@@ -1,0 +1,98 @@
+<!DOCTYPE html><html><head><meta charset="UTF-8"><title>2010</title><style>
+body { font-family: Segoe UI; margin:40px;}
+h1 { color:#0078d4;}
+table {border-collapse:collapse;width:100%;}
+th, td {border:1px solid #ddd;padding:8px;}
+th {background:#0078d4;color:white;}
+</style></head><body><h1>2010</h1><p>Period: Balance Sheet - AdventureWorks Cycle - Fiscal Year 2010 (Actual)</p><table style="width:100%;border-collapse:collapse;font-family:Arial,sans-serif;font-size:13px;">
+  <tr style="background-color:#1F3864;color:white;">
+    <th colspan="2" style="padding:12px;text-align:left;font-size:15px;">BALANCE SHEET — AdventureWorks Cycle | Fiscal Year 2010 | Scenario: Actual</th>
+  </tr>
+
+  <!-- ASSETS HEADER -->
+  <tr style="background-color:#2E75B6;color:white;">
+    <th colspan="2" style="padding:10px;text-align:left;">ASSETS</th>
+  </tr>
+
+  <!-- Current Assets -->
+  <tr style="background-color:#D6E4F0;">
+    <td colspan="2" style="padding:8px 12px;font-weight:bold;">Current Assets</td>
+  </tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Cash</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$1,519,009.58</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Trade Receivables</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$2,170,623.04</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Allowance for Bad Debt</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$43,408.12</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Other Receivables</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$63,610.74</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Intercompany Receivables</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$419,395.44</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Prepaid Expenses</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$225,285.26</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Deferred Taxes</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$333,693.70</td></tr>
+
+  <!-- Inventory -->
+  <tr style="background-color:#D6E4F0;">
+    <td colspan="2" style="padding:8px 12px;font-weight:bold;">Inventory</td>
+  </tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Finished Goods</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$425,971.76</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Raw Materials</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$616,944.00</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Work in Process</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$352,540.00</td></tr>
+
+  <!-- Non-Current Assets -->
+  <tr style="background-color:#D6E4F0;">
+    <td colspan="2" style="padding:8px 12px;font-weight:bold;">Non-Current Assets (Fixed Assets)</td>
+  </tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Buildings and Improvements</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$398,514.80</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Construction In Progress</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$44,114.18</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Land and Improvements</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$125,062.42</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Leasehold Improvements</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$107,531.58</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Machinery and Equipment</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$124,990.50</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Office Furniture and Equipment</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$730,750.38</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Other Assets</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$228,003.86</td></tr>
+
+  <!-- Total Assets -->
+  <tr style="background-color:#1F3864;color:white;font-weight:bold;">
+    <td style="padding:10px 12px;">TOTAL ASSETS</td>
+    <td style="padding:10px 12px;text-align:right;">$7,929,449.36</td>
+  </tr>
+
+  <!-- Spacer -->
+  <tr><td colspan="2" style="padding:6px;"></td></tr>
+
+  <!-- LIABILITIES HEADER -->
+  <tr style="background-color:#2E75B6;color:white;">
+    <th colspan="2" style="padding:10px;text-align:left;">LIABILITIES</th>
+  </tr>
+
+  <!-- Current Liabilities -->
+  <tr style="background-color:#D6E4F0;">
+    <td colspan="2" style="padding:8px 12px;font-weight:bold;">Current Liabilities</td>
+  </tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Accounts Payable</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$1,634,660.22</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Current Installments of Long-term Debt</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$199,222.08</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Notes Payable</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$188,633.00</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Other Current Liabilities</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$366,429.96</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Salary and Other Comp</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$667,614.20</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Insurance</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$292,980.32</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Warranties</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$250,506.34</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Intercompany Payables</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$154,409.32</td></tr>
+
+  <!-- Non-Current Liabilities -->
+  <tr style="background-color:#D6E4F0;">
+    <td colspan="2" style="padding:8px 12px;font-weight:bold;">Non-Current Liabilities</td>
+  </tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Long Term Obligations</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$314,062.78</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Other Long Term Liabilities</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$275,278.74</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Other Retirement Benefits</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$650,451.32</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Pension Liability</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$309,956.26</td></tr>
+
+  <!-- Equity -->
+  <tr style="background-color:#D6E4F0;">
+    <td colspan="2" style="padding:8px 12px;font-weight:bold;">Equity</td>
+  </tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Partner Capital</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$4,300,000.00</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Prior Year Retained Earnings</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$4,606,886.60</td></tr>
+  <tr><td style="padding:6px 24px;border-bottom:1px solid #e0e0e0;">Additional Paid In Capital</td><td style="padding:6px 12px;text-align:right;border-bottom:1px solid #e0e0e0;">$102,283.36</td></tr>
+
+  <!-- Total Liabilities -->
+  <tr style="background-color:#1F3864;color:white;font-weight:bold;">
+    <td style="padding:10px 12px;">TOTAL LIABILITIES AND EQUITY</td>
+    <td style="padding:10px 12px;text-align:right;">$14,313,374.50</td>
+  </tr>
+</table><p>Generated: 2026-06-22T09:39:19.5320560Z</p></body></html>
